@@ -1,0 +1,21 @@
+<script>
+    months = ["january",
+              "february",
+              "march",
+              "april",
+              "may",
+              "june",
+              "july",
+              "august",
+              "september",
+              "october",
+              "november",
+              "december" ];
+    days = [31,28,31,30,31,30,31,31,30,31,30,31];
+    var index = 0;
+    while(index < months.length && index < days.length  ){
+        document.write(`Month ${months[index]} has  ${days[index]} days`);
+        document.write("<br/>");
+        index++;
+    }
+</script>
