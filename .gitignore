@@ -1,3 +1,6 @@
 .gitconfig
 .unwanted_file
 *.log
+.simple.html.swx
+simple.html.orig
+*.swx
