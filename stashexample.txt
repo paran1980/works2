@@ -1,1 +1,3 @@
 //comment for the file
+I'm adding line not able to see the stashed line
+I'm doing my work not able to see the stashed line
