@@ -1,3 +1,6 @@
 //comment for the file
 I'm adding line not able to see the stashed line
 I'm doing my work not able to see the stashed line
+These are stash line
+These are stash second line
+These are stash third line
